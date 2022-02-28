@@ -11,6 +11,7 @@
 		7648C7F027CBEA390071CD02 /* ImplicitAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7648C7EF27CBEA390071CD02 /* ImplicitAnimation.swift */; };
 		7648C7F227CBEA3C0071CD02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7648C7F127CBEA3C0071CD02 /* Assets.xcassets */; };
 		7648C7F527CBEA3C0071CD02 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7648C7F427CBEA3C0071CD02 /* Preview Assets.xcassets */; };
+		7648C7FC27CCD61D0071CD02 /* CustomAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7648C7FB27CCD61D0071CD02 /* CustomAnimations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7648C7EF27CBEA390071CD02 /* ImplicitAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplicitAnimation.swift; sourceTree = "<group>"; };
 		7648C7F127CBEA3C0071CD02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7648C7F427CBEA3C0071CD02 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7648C7FB27CCD61D0071CD02 /* CustomAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7648C7ED27CBEA390071CD02 /* SwiftUIAnimationsApp.swift */,
 				7648C7EF27CBEA390071CD02 /* ImplicitAnimation.swift */,
+				7648C7FB27CCD61D0071CD02 /* CustomAnimations.swift */,
 				7648C7F127CBEA3C0071CD02 /* Assets.xcassets */,
 				7648C7F327CBEA3C0071CD02 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7648C7FC27CCD61D0071CD02 /* CustomAnimations.swift in Sources */,
 				7648C7F027CBEA390071CD02 /* ImplicitAnimation.swift in Sources */,
 				7648C7EE27CBEA390071CD02 /* SwiftUIAnimationsApp.swift in Sources */,
 			);
