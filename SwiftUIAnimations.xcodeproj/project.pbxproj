@@ -18,6 +18,7 @@
 		7648C80427CD4C6E0071CD02 /* GesturesAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7648C80327CD4C6E0071CD02 /* GesturesAnimation.swift */; };
 		7648C80627CD4F990071CD02 /* GesturesAnimation2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7648C80527CD4F990071CD02 /* GesturesAnimation2.swift */; };
 		7648C80827CD53130071CD02 /* ShowHideViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7648C80727CD53130071CD02 /* ShowHideViews.swift */; };
+		7648C80A27CD54820071CD02 /* CustomTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7648C80927CD54820071CD02 /* CustomTransitions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		7648C80327CD4C6E0071CD02 /* GesturesAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GesturesAnimation.swift; sourceTree = "<group>"; };
 		7648C80527CD4F990071CD02 /* GesturesAnimation2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GesturesAnimation2.swift; sourceTree = "<group>"; };
 		7648C80727CD53130071CD02 /* ShowHideViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowHideViews.swift; sourceTree = "<group>"; };
+		7648C80927CD54820071CD02 /* CustomTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTransitions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				7648C80327CD4C6E0071CD02 /* GesturesAnimation.swift */,
 				7648C80527CD4F990071CD02 /* GesturesAnimation2.swift */,
 				7648C80727CD53130071CD02 /* ShowHideViews.swift */,
+				7648C80927CD54820071CD02 /* CustomTransitions.swift */,
 				7648C7F127CBEA3C0071CD02 /* Assets.xcassets */,
 				7648C7F327CBEA3C0071CD02 /* Preview Content */,
 			);
@@ -167,6 +170,7 @@
 				7648C7EE27CBEA390071CD02 /* SwiftUIAnimationsApp.swift in Sources */,
 				7648C80827CD53130071CD02 /* ShowHideViews.swift in Sources */,
 				7648C80027CD422E0071CD02 /* ExplicitAnimations.swift in Sources */,
+				7648C80A27CD54820071CD02 /* CustomTransitions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
